@@ -3,7 +3,9 @@
  
 This was a project to learn how to use streamlit to build a simple python web app. 
 
-The code will pull weather forecast data for a given location.  In the web app you can select the location and number of days to forecast. You can also select the option to display the temperature forecast or you can select the option for weather conditions which are displayed via graphic icons.
+This code will pull weather forecast data for a given location from the openweathermap.org api, and display it in a streamlit web app.  
+
+In the web app you can select the location and number of days (1-5) to forecast. You can also select the option to display the temperature forecast or you can select the option for weather conditions which are displayed via graphic icons.
 
 ## REQUIREMENTS
 plotly
