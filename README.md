@@ -1,5 +1,5 @@
 # simple_weather_forecast
-## Project To Build A Simple Weather Forecasting Application In Python.
+## A Project To Build A Simple Weather Forecasting Application In Python.
  
 This was a project to learn how to use streamlit to build a simple python web app. 
 
