@@ -1,7 +1,7 @@
 # simple_weather_forecast
 ## A Project To Build A Simple Weather Forecasting Application In Python.
  
-This was a project to learn how to use streamlit to build a simple python web app. 
+This was a small project to learn how to use streamlit to build a simple python web app. 
 
 This code will pull weather forecast data for a given location from the openweathermap.org api, and display it in a streamlit web app.  
 
